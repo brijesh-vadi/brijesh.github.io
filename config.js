@@ -36,7 +36,7 @@ const CONFIG = {
 	defaultLongitude: '-122.419',
 
 	// Autochange
-	autoChangeTheme: true,
+	autoChangeTheme: false,
 
 	// Autochange by OS
 	changeThemeByOS: true,
@@ -53,15 +53,15 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Admin',
+			icon: 'admin',
+			link: 'https://admin.thepatidars.org/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
+			name: 'Reviewer',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://admin.reviewer.org/',
 		},
 		{
 			id: '3',
