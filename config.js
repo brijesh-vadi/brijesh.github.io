@@ -54,7 +54,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Admin',
-			icon: 'admin',
+			icon: 'setting',
 			link: 'https://admin.thepatidars.org/',
 		},
 		{
