@@ -87,18 +87,18 @@ const CONFIG = {
       icon: "rocket",
       link: "https://hacksnation.com/",
     },
-    {
-      id: "7",
-      name: "Twitter",
-      icon: "twitter",
-      link: "https://twitter.com/",
-    },
-    {
-      id: "8",
-      name: "YouTube",
-      icon: "youtube",
-      link: "https://youtube.com/",
-    },
+    // {
+    //   id: "7",
+    //   name: "Twitter",
+    //   icon: "twitter",
+    //   link: "https://twitter.com/",
+    // },
+    // {
+    //   id: "8",
+    //   name: "YouTube",
+    //   icon: "youtube",
+    //   link: "https://youtube.com/",
+    // },
   ],
 
   secondButtonsContainer: [
